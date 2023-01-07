@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Gowun+Dodum&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hahmlet:wght@200&display=swap');
+
+.post-img{
+    margin-top: 10px;
+    width: 100%;
+    overflow: hidden;
+    opacity: 0.45;
+}
+
+.post-img img{
+    width: 100%;
+    /* width: 150vh; */
+    height: 70vh;
+}
+
+.blog-post-containt{
+    margin: auto;
+}
+
+.blog-post-containt h1{
+    text-align: center;
+}
+
+.row{
+    display: flex;
+}
+
+.blogpost-meta{
+    display: flex;
+    /* background-color: red; */
+    width: 100%;
+    height: 50px;
+    justify-content: space-between;
+}
+
+.author-info div{
+    margin: -2px 0px;
+    padding: 2px 3px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.author-info{
+    margin: 29px 7px;
+}
+
+.slogan{
+    font-size: 23px;
+    font-family: 'Gowun Dodum', sans-serif;
+    padding: 13px 3px;
+}
+
+.blog-para{
+    font-family: 'Hahmlet', serif;
+    font-size: 16.5px;
+    font-weight: 300;
+}
+
+.blog-containt-image img{
+    height: 100%;
+    width: 100%;
+}
+
+.blog-para h2{
+    font-size: 32px;
+    font-weight: 1000;
+}

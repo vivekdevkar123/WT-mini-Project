@@ -1,0 +1,23 @@
+.contact-us{
+    display: block;
+    align-items: center;
+    margin: 0px 230px;
+}
+
+.form-box input,textarea{
+    width: 52vw;
+    margin: 5px -74px;
+    padding: 2px 7px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.contact-form{
+    height: 90vh;
+}
+
+.contact-form button{
+    width: 37vw;
+    height: 5vh;
+    border-radius: 20px;
+}
